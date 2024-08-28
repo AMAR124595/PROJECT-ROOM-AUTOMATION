@@ -272,3 +272,4 @@ void roomc_menu(int x)
 ![Screenshot_20240828_143452_Gallery](https://github.com/user-attachments/assets/c0d266f1-9b4c-4952-8504-068619de0e1e)
 # Reference
 ## librarys & Code preference
+https://lastminuteengineers.com/i2c-lcd-arduino-tutorial/
