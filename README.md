@@ -267,3 +267,8 @@ void roomc_menu(int x)
       
 }
 ```
+# Output
+![1](https://github.com/user-attachments/assets/60b2baa3-96c4-43ee-b2b7-61147e557169)
+![Screenshot_20240828_143452_Gallery](https://github.com/user-attachments/assets/c0d266f1-9b4c-4952-8504-068619de0e1e)
+# Reference
+## librarys & Code preference
